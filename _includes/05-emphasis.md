@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Huge Fan of Computers and Programming*
+_Not a Fan of My Current Boss_
